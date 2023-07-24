@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'mini_racer', '=0.4.0'
-    gem 'libv8-node' ,'~> 15.14.0.0'
+    gem 'mini_racer', '=0.8.0'
+    gem 'libv8-node' ,'=18.16.0.0'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
