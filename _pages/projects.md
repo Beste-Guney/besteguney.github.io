@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some of the projects that I worked onç
+description: Some of the projects that I worked on, more on my Github page.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
