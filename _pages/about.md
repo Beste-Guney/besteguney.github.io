@@ -2,22 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: assets/img/prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a master's student in computer science at ETH Zurich, specializing in data management systems and machine intelligence. I am passionate about machine learning, artificial intelligence, and software development. I have several internship experiences in the industry, including a software engineering internship at Google. I am fluent in languages like C++, Python, Java, and JavaScript, and I have experience using frameworks like React, Spring, and Django. I also have experience as a part-time software engineer during my bachelor's degree, which I earned from Bilkent University in Turkey.
 
 I am Beste Guney. I am 22 years old. I love cooking [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
