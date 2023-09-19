@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://besteguney.github.io/besteguney.github.io/sitemap.xml
+Sitemap: https://besteguney.github.io/sitemap.xml
